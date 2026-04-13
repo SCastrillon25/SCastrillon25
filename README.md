@@ -9,26 +9,26 @@ ________________________________________________________________________________
 
 ## 🛠️Tecnologias 
 ### Frontend
--HTML
--CSS
--Metodología BEM
--JavaScript
+- HTML
+- CSS
+- Metodología BEM
+- JavaScript
 
 ### Conceptos
-Responsive Design
-Programación Orientada a Objetos
-Código asíncrono
+- Responsive Design
+- Programación Orientada a Objetos
+- Código asíncrono
 
 ### Próximamente
--React
--Node.js
--Express
--MongoDB
+- React
+- Node.js
+- Express
+- MongoDB
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## 💼 Proyectos relevantes
-### 🔹 Proyecto 1 – 
-### Repositorio: 
+🔹 Proyecto 1 – 
+Repositorio: https://github.com/SCastrillon25/web_project_around.git
 
 ### Contexto
 Proyecto enfocado en el desarrollo de una interfaz web funcional y responsiva, aplicando buenas prácticas de estructura y diseño.
