@@ -4,7 +4,7 @@
 Bienvenidos a mi perfil de GitHub 🎯
 
 Soy desarrollador web en formación disfruto de la construccion de plataformas digitales eficientes, intuitivas y responsivas;
-Desde hace algunos soy estudiante del Bootcamp de Desarrollo Web en TripleTen, donde he trabajado con tecnologías modernas y buenas prácticas de desarrollo.
+Desde hace algunos meses soy estudiante del Bootcamp de Desarrollo Web en TripleTen, donde he trabajado con tecnologías modernas y buenas prácticas de desarrollo.
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## 🛠️Tecnologias 
