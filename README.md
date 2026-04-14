@@ -28,7 +28,8 @@ ________________________________________________________________________________
 
 ## 💼 Proyectos relevantes
 🔹 Proyecto 1 – web_project_around
-<img width="1243" height="867" alt="image" src="https://github.com/user-attachments/assets/60227d3d-9e7e-40b2-83b3-06c317ecfc27" />
+<img width="1577" height="866" alt="image" src="https://github.com/user-attachments/assets/78c2a1cf-ab94-42d5-9399-daa90a33bf8e" />
+
 
 📂 Repositorio: https://github.com/SCastrillon25/web_project_around.git
 
