@@ -71,6 +71,6 @@ HTML | CSS
 
 ____________________________________________________________________________________________________________________________________________________________________
 ## 📬Contacto
-- LinkedIn: www.linkedin.com/in/sebastian-castrillon-osorio-4646a0355
+- LinkedIn: www.linkedin.com/in/sebastian-castrillon-osorio
 - Email: secastrillonos@gmail.com
 - GitHub: https://github.com/SCastrillon25
