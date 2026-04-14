@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 ## 💼 Proyectos relevantes
 🔹 Proyecto 1 – web_project_around
-Repositorio: https://github.com/SCastrillon25/web_project_around.git
+📂 Repositorio: https://github.com/SCastrillon25/web_project_around.git
 
 ### Contexto
 Proyecto enfocado en el desarrollo de una interfaz web funcional y responsiva, aplicando buenas prácticas de estructura y diseño.
