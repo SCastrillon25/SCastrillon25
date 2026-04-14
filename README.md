@@ -66,6 +66,8 @@ HTML | CSS
 - Estructuración semántica en HTML
 - Estilos con CSS
 - Organización de componentes visuales
+- Formularios
+- Insercion de contenido esterno a traves de iframes
 
 ____________________________________________________________________________________________________________________________________________________________________
 ## 📬Contacto
