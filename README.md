@@ -31,7 +31,7 @@ ________________________________________________________________________________
 📂 Repositorio: https://github.com/SCastrillon25/web_project_around.git
 
 ### Contexto
-Proyecto enfocado en el desarrollo de una interfaz web funcional y responsiva, aplicando buenas prácticas de estructura y diseño.
+Proyecto enfocado en el desarrollo de una interfaz web funcional y responsiva tipo perfil de usuario editable, donde puedes subir imagenes, borrarlas y darles like, priorizando buenas prácticas de estructura y diseño.
 
 ### Tecnologías
 HTML, CSS, JavaScript
