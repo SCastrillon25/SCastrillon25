@@ -37,7 +37,7 @@ ________________________________________________________________________________
 Proyecto enfocado en el desarrollo de una interfaz web funcional y responsiva tipo perfil de usuario editable, donde puedes subir imagenes, borrarlas y darles like, priorizando buenas prácticas de estructura y diseño.
 
 ### Tecnologías
-HTML, CSS, JavaScript
+HTML | CSS | JavaScript
 
 ### Aprendizajes
 
@@ -49,6 +49,25 @@ HTML, CSS, JavaScript
 - Uso de Git y control de versiones
 ___________________________________________________________________________________________________________________________________________________________________
 
+🔹Proyecto 2 web_project_coffeeshop
+<img width="1887" height="857" alt="image" src="https://github.com/user-attachments/assets/518829ce-7c99-48b7-8921-746357cea288" />
+
+<img width="1856" height="822" alt="image" src="https://github.com/user-attachments/assets/9741cf32-63d0-4963-9561-e2512ecc6ac8" />
+
+🖥️miralo en:https://scastrillon25.github.io/web_project_coffeeshop/
+
+### Contexto
+Proyecto de página web estática en el que se simula un formulario para solicitar turno en una cafetería. Además, se integran dos recetas de café mediante iframes, permitiendo visualizar contenido externo directamente en la interfaz.
+
+### Tecnologías
+HTML | CSS
+
+### Aprendizajes
+- Estructuración semántica en HTML
+- Estilos con CSS
+- Organización de componentes visuales
+
+____________________________________________________________________________________________________________________________________________________________________
 ## 📬Contacto
 - LinkedIn: www.linkedin.com/in/sebastian-castrillon-osorio-4646a0355
 - Email: secastrillonos@gmail.com
